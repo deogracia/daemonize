@@ -1,5 +1,5 @@
 Source: daemonize
-Section: unknown
+Section: Utilities
 Priority: extra
 Maintainer: Lionel Félicité <deogracia@free.fr>
 Build-Depends: debhelper (>= 8.0.0)
