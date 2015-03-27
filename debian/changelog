@@ -1,0 +1,5 @@
+daemonize (1.7.5-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- unknown <vagrant@unknown>  Fri, 27 Mar 2015 14:31:06 +0000
