@@ -9,7 +9,7 @@ Licence: MIT
 
 Files: getopt.c
 Copyright: AT&T
-Licence: Public Domain
+Licence: public-domain
  The version of getopt() that is compiled into daemonize is adapted from the original AT&T public domain implementation of getopt(3) and is in the public domain.
 
 Files: *
